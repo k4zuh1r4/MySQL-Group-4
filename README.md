@@ -3,3 +3,4 @@ Nhóm 4 - Hoàng Đức Việt, Nguyễn Đức Mạnh, Bạch Quang Minh, Phạ
 Note: 
 - File 'script-sql-inventory' là script chạy tạo schema, không import.
 - File 'acs_2014_2018_stats.csv' phải import vào schema có sẵn.
+- Phần 4: Importing/Exporting Data không có file.
